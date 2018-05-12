@@ -4,7 +4,7 @@ contributor:
   contributors:
   - agent_name: Janvier, Thomas A. (Thomas Allibone)
     alias: Janvier, Thomas Allibone
-    birthdate: &id002 1849
+    birthdate: 1849
     deathdate: 1913
     gutenberg_agent_id: '3196'
     url: http://www.gutenberg.org/2009/agents/3196
@@ -14,7 +14,7 @@ contributor:
     - Tarkington, Newton Booth
     - Van Loot, Cornelius Obenchain
     - Tarkington, B. (Booth)
-    birthdate: &id001 1869
+    birthdate: 1869
     deathdate: 1946
     gutenberg_agent_id: '169'
     url: http://www.gutenberg.org/2009/agents/169
@@ -42,7 +42,7 @@ contributor:
     - http://fr.Wikipedia.org/wiki/Honoré_de_Balzac
     - http://en.wikipedia.org/wiki/Honoré_de_Balzac
   - agent_name: Blackwood, Algernon
-    birthdate: *id001
+    birthdate: 1869
     deathdate: 1951
     gutenberg_agent_id: '1370'
     url: http://www.gutenberg.org/2009/agents/1370
@@ -100,7 +100,7 @@ contributor:
   - agent_name: Poe, Edgar Allan
     alias: Poe, Edgar Allen
     birthdate: 1809
-    deathdate: *id002
+    deathdate: 1849
     gutenberg_agent_id: '481'
     url: http://www.gutenberg.org/2009/agents/481
     wikipedia: http://en.wikipedia.org/wiki/Edgar_Allan_Poe
@@ -119,6 +119,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/31911
     wikipedia: http://en.wikipedia.org/wiki/Carl_Van_Vechten
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/30092#Lords-of-the-Housetops--Thirteen-Cat-Tales
 gutenberg_issued: '2009-09-26'
 gutenberg_type: Text
 identifiers:
