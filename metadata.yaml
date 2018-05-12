@@ -1,0 +1,141 @@
+_repo: Lords-of-the-Housetops--Thirteen-Cat-Tales_30092
+_version: 0.1.0
+contributor:
+  contributors:
+  - agent_name: Janvier, Thomas A. (Thomas Allibone)
+    alias: Janvier, Thomas Allibone
+    birthdate: &id002 1849
+    deathdate: 1913
+    gutenberg_agent_id: '3196'
+    url: http://www.gutenberg.org/2009/agents/3196
+    wikipedia: http://en.wikipedia.org/wiki/Thomas_Allibone_Janvier
+  - agent_name: Tarkington, Booth
+    aliases:
+    - Tarkington, Newton Booth
+    - Van Loot, Cornelius Obenchain
+    - Tarkington, B. (Booth)
+    birthdate: &id001 1869
+    deathdate: 1946
+    gutenberg_agent_id: '169'
+    url: http://www.gutenberg.org/2009/agents/169
+    wikipedia: http://en.wikipedia.org/wiki/Booth_Tarkington
+  - agent_name: Hudson, W. H. (William Henry)
+    aliases:
+    - Harford, Henry
+    - Hudson, William Henry
+    birthdate: 1841
+    deathdate: 1922
+    gutenberg_agent_id: '484'
+    url: http://www.gutenberg.org/2009/agents/484
+    wikipedia: http://en.wikipedia.org/wiki/William_Henry_Hudson
+  - agent_name: Balzac, Honoré de
+    aliases:
+    - Balzac, H. de (Honoré de)
+    - Saint-Aubin, Horace de
+    - Balzac, Honore de
+    - De Balzac, Honoré
+    birthdate: 1799
+    deathdate: 1850
+    gutenberg_agent_id: '251'
+    url: http://www.gutenberg.org/2009/agents/251
+    wikipedia:
+    - http://fr.Wikipedia.org/wiki/Honoré_de_Balzac
+    - http://en.wikipedia.org/wiki/Honoré_de_Balzac
+  - agent_name: Blackwood, Algernon
+    birthdate: *id001
+    deathdate: 1951
+    gutenberg_agent_id: '1370'
+    url: http://www.gutenberg.org/2009/agents/1370
+    wikipedia: http://en.wikipedia.org/wiki/Algernon_Blackwood
+  - agent_name: Warner, Charles Dudley
+    birthdate: 1829
+    deathdate: 1900
+    gutenberg_agent_id: '993'
+    url: http://www.gutenberg.org/2009/agents/993
+    wikipedia: http://en.wikipedia.org/wiki/Charles_Dudley_Warner
+  - agent_name: Powell, G. H. (George Herbert)
+    birthdate: 1856
+    deathdate: 1924
+    gutenberg_agent_id: '34365'
+    url: http://www.gutenberg.org/2009/agents/34365
+  - agent_name: Carryl, Guy Wetmore
+    birthdate: 1873
+    deathdate: 1904
+    gutenberg_agent_id: '9039'
+    url: http://www.gutenberg.org/2009/agents/9039
+    wikipedia: http://en.wikipedia.org/wiki/Guy_Wetmore_Carryl
+  - agent_name: Bacon, Peggy
+    alias: Brook, Margaret Frances Bacon
+    birthdate: 1895
+    deathdate: 1987
+    gutenberg_agent_id: '34368'
+    url: http://www.gutenberg.org/2009/agents/34368
+    wikipedia: http://en.wikipedia.org/wiki/Peggy_Bacon
+  - agent_name: Freeman, Mary Eleanor Wilkins
+    aliases:
+    - Wilkins, Mary Ella
+    - Wilkins, Mary E. (Mary Eleanor)
+    - Freeman, Mary E. Wilkins (Mary Eleanor Wilkins)
+    - Wilkins, Mary Eleanor
+    birthdate: 1852
+    deathdate: 1930
+    gutenberg_agent_id: '495'
+    url: http://www.gutenberg.org/2009/agents/495
+    wikipedia: http://en.wikipedia.org/wiki/Mary_Eleanor_Wilkins_Freeman
+  - agent_name: Alden, W. L. (William Livingston)
+    birthdate: 1837
+    deathdate: 1908
+    gutenberg_agent_id: '34366'
+    url: http://www.gutenberg.org/2009/agents/34366
+    wikipedia: http://en.wikipedia.org/wiki/William_L._Alden
+  - agent_name: Twain, Mark
+    aliases:
+    - Twain, Mark (Samuel Clemens)
+    - Clemens, Samuel Langhorne
+    birthdate: 1835
+    deathdate: 1910
+    gutenberg_agent_id: '53'
+    url: http://www.gutenberg.org/2009/agents/53
+    wikipedia: http://en.wikipedia.org/wiki/Mark_Twain
+  - agent_name: Poe, Edgar Allan
+    alias: Poe, Edgar Allen
+    birthdate: 1809
+    deathdate: *id002
+    gutenberg_agent_id: '481'
+    url: http://www.gutenberg.org/2009/agents/481
+    wikipedia: http://en.wikipedia.org/wiki/Edgar_Allan_Poe
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  editor:
+    agent_name: Van Vechten, Carl
+    aliases:
+    - Vechten, Carl Van
+    - Vetchen, Carl Van
+    birthdate: 1880
+    deathdate: 1964
+    gutenberg_agent_id: '31911'
+    url: http://www.gutenberg.org/2009/agents/31911
+    wikipedia: http://en.wikipedia.org/wiki/Carl_Van_Vechten
+description: ''
+gutenberg_issued: '2009-09-26'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '30092'
+  lccn: '21013067'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PN'
+- !lcsh 'Cats -- Fiction'
+tableOfContents: "The cat / M. E. W. Freeman\r\nZut / G. W. Carryl\r\nA psychical\
+  \ invasion / A. Blackwood\r\nThe afflictions of an English cat / H. de Balzac (translated\
+  \ from the French by C. Van Vechten)\r\nGipsy / B. Tarkington\r\nThe Blue Dryad\
+  \ / G. H. Powell\r\nDick Baker's cat / Mark Twain\r\nThe black cat / E. A. Poe\r\
+  \nMadame Jolicoeur's cat / T. A. Janvier\r\nA friendly rat / W. H. Hudson\r\nMonty's\
+  \ friend / W. L. Alden\r\nThe queen's cat / P. Bacon\r\nCalvin / C. D. Warner"
+title: 'Lords of the Housetops: Thirteen Cat Tales'
+url: http://www.gutenberg.org/ebooks/30092
